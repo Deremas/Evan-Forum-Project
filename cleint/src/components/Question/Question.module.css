@@ -1,0 +1,12 @@
+/* .vertical-center-text {
+    display: flex;
+    align-items: center;
+
+} */
+.question {
+    height: 150px;
+}
+
+.user {
+    margin-bottom: 5px;
+}
